@@ -10,3 +10,5 @@
 and MLP with one and two hidden layers;
 4. Solving CIFAR-10 with MLP's implemented with `torch.nn.Module`, `torch.nn.Sequential`; mini-batches; Comparison
     of different optimizers: **SGD**, **SGD + Momentum**, **SGD + Nesterov**. **RMSprop**, **Adam**
+5. Batch Normalization and Convolutional Neural Networks.
+
